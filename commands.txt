@@ -1,0 +1,26 @@
+git
+
+1) git clone path paste
+2nd 
+1.git add .l
+1. git status
+2. git commit -m "abc"
+3.git push
+
+
+aws command
+
+1.sudo apt update
+2.sudo apt install
+3.sudo apt install docker.io
+4.y
+5.git clone path paste git cha
+
+6.ls 
+7. cd name file
+8.cd webapp
+9.cd WbApp all file ahet ka check
+10.sudo docker build -t abc .
+11.sudo docker run -d -p 1234:7667 abc
+
+
